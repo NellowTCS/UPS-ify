@@ -1,5 +1,5 @@
 # UPS-ify
-WARNING: Has not been tested! May need revisions!</br>
+WARNING: Has not been tested as an actual device! May need revisions!</br>
 A small USB A to USB A adapter that can convert any input to have a small UPS-like delay. </br>
 *The device has to be able to use USB, and the UPS is a small 5-6 minute delay, not a true UPS.
 
